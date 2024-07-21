@@ -1,4 +1,4 @@
-// select html tags for use in js 
+// select html tags for use in js
 let passInp = document.getElementById("password");
 let eyeIcon = document.getElementById("icon");
 let list = document.getElementById("ul");
@@ -49,3 +49,5 @@ passInp.addEventListener("change", () => {
 		li[4].innerHTML = `<i class="fa-solid fa-xmark"></i> At least 1 number (0...9)`;
 	}
 });
+
+// Thank for watching 💖
